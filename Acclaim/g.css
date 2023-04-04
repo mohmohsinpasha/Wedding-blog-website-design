@@ -1,0 +1,17 @@
+:root {
+
+    --font-julius-sans-one: "Julius Sans One";
+    --font-homemade-apple: "Homemade Apple";
+    --font-kapakana: "Kapakana";
+    --font-kodchasan: "Kodchasan";
+  
+    
+    --font-size-sm: 15px;
+    --font-size-base: 30px;
+    --font-size-lg: 45px;
+    --font-size-xl: 100px;
+
+    --color-white: #fff;
+    --color-darkslategray: #002e42;
+  }
+  

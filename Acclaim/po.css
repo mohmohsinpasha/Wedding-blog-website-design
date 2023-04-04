@@ -1,0 +1,206 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .frame-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #29233b;
+    width: 1566px;
+    height: 1416px;
+  }
+  .portfolio {
+    position: absolute;
+    top: 48px;
+    left: 91px;
+    font-size: var(--font-size-2xl);
+    display: inline-block;
+    font-family: var(--font-kodchasan);
+    color: var(--color-white);
+    width: 290px;
+    height: 88px;
+  }
+  .icon {
+    position: absolute;
+    top: 152px;
+    left: 236px;
+    border-radius: 30px;
+    width: 400px;
+    height: 238px;
+    object-fit: cover;
+  }
+  .icon1,
+  .icon2,
+  .icon3,
+  .icon4,
+  .icon5 {
+    position: absolute;
+    top: 669px;
+    left: 95px;
+    width: 435px;
+    height: 305px;
+    object-fit: cover;
+  }
+  .icon2,
+  .icon3,
+  .icon4,
+  .icon5 {
+    top: 548px;
+    left: 1092px;
+    width: 456px;
+  }
+  .icon3,
+  .icon4,
+  .icon5 {
+    top: 1095px;
+    left: 1000px;
+    width: 497px;
+  }
+  .icon4,
+  .icon5 {
+    top: 248px;
+    left: 783px;
+    border-radius: 48px;
+    width: 278px;
+    height: 453px;
+  }
+  .icon5 {
+    top: 899px;
+    left: 587px;
+    border-radius: 28px;
+    width: 250px;
+    height: 441px;
+  }
+  .frame-item {
+    position: absolute;
+    top: 1416px;
+    left: 0;
+    background-color: #ded8eb;
+    width: 1566px;
+    height: 365px;
+  }
+  .address,
+  .contact {
+    position: absolute;
+    top: 1452px;
+    left: 83px;
+  }
+  .address {
+    top: 1605px;
+    left: 95px;
+  }
+  .ph-91-8989898989 {
+    margin: 0;
+  }
+  .ph-91-9898989898-container,
+  .washington-dc-usa-909909 {
+    position: absolute;
+    top: 1507px;
+    left: 76px;
+    display: inline-block;
+    width: 517px;
+    height: 98px;
+  }
+  .washington-dc-usa-909909 {
+    top: 1660px;
+    left: 92px;
+    height: 47px;
+  }
+  .connect-us-on {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .connect-us-on-container {
+    position: absolute;
+    top: 1452px;
+    left: 1090px;
+    display: inline-block;
+    width: 458px;
+    height: 65px;
+  }
+  .vector-icon,
+  .vector-icon1,
+  .vector-icon2 {
+    position: absolute;
+    height: 3.2%;
+    width: 3.83%;
+    top: 84.73%;
+    right: 25.61%;
+    bottom: 12.07%;
+    left: 70.56%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-icon1,
+  .vector-icon2 {
+    height: 2.47%;
+    width: 3.13%;
+    top: 84.95%;
+    right: 16.28%;
+    bottom: 12.58%;
+    left: 80.59%;
+  }
+  .vector-icon2 {
+    height: 2.92%;
+    width: 2.87%;
+    top: 84.73%;
+    right: 7.15%;
+    bottom: 12.35%;
+    left: 89.97%;
+  }
+  .frame-inner {
+    position: absolute;
+    top: 668.6px;
+    left: 583px;
+    width: 256.11px;
+    height: 250.85px;
+  }
+  .vector-icon3 {
+    position: absolute;
+    top: calc(50% - 147.57px);
+    left: calc(50% - 81.9px);
+    width: 83.51px;
+    height: 86.28px;
+  }
+  .moh-28,
+  .sin-26,
+  .x {
+    position: absolute;
+    top: 221px;
+    left: 1061px;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-kapakana);
+    color: var(--color-white);
+    display: inline-block;
+    width: 156px;
+    height: 29px;
+  }
+  .sin-26,
+  .x {
+    top: 864px;
+    left: 844px;
+  }
+  .x {
+    top: 27px;
+    left: 1432px;
+    font-size: var(--font-size-2xl);
+    font-weight: 200;
+    font-family: var(--font-kodchasan);
+    width: 109px;
+    height: 109px;
+    cursor: pointer;
+  }
+  .rectangle-parent {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1781px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-julius-sans-one);
+  }
+  

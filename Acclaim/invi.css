@@ -1,0 +1,207 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .frame-child,
+  .frame-item {
+    position: absolute;
+    left: 0;
+    width: 1566px;
+  }
+  .frame-child {
+    top: 0;
+    background-color: #540404;
+    height: 867px;
+  }
+  .frame-item {
+    top: 867px;
+    height: 360px;
+  }
+  .address,
+  .contact {
+    position: absolute;
+    top: 922px;
+    left: 54px;
+    color: var(--color-black);
+  }
+  .address {
+    top: 1075px;
+    left: 66px;
+  }
+  .ph-91-8989898989 {
+    margin: 0;
+  }
+  .ph-91-9898989898-container,
+  .washington-dc-usa-909909 {
+    position: absolute;
+    top: 977px;
+    left: 47px;
+    color: var(--color-black);
+    display: inline-block;
+    width: 517px;
+    height: 98px;
+  }
+  .washington-dc-usa-909909 {
+    top: 1130px;
+    left: 63px;
+    height: 47px;
+  }
+  .connect-us-on {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .connect-us-on-container {
+    position: absolute;
+    top: 922px;
+    left: 1061px;
+    color: var(--color-black);
+    display: inline-block;
+    width: 458px;
+    height: 65px;
+  }
+  .vector-icon,
+  .vector-icon1,
+  .vector-icon2 {
+    position: absolute;
+    height: 4.65%;
+    width: 3.83%;
+    top: 79.79%;
+    right: 27.46%;
+    bottom: 15.57%;
+    left: 68.71%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-icon1,
+  .vector-icon2 {
+    height: 3.59%;
+    width: 3.13%;
+    top: 80.11%;
+    right: 18.14%;
+    bottom: 16.3%;
+    left: 78.74%;
+  }
+  .vector-icon2 {
+    height: 4.24%;
+    width: 2.87%;
+    top: 79.79%;
+    right: 9%;
+    bottom: 15.97%;
+    left: 88.12%;
+  }
+  .click-here-to,
+  .invitation,
+  .x {
+    position: absolute;
+    font-size: var(--font-size-2xl);
+    font-family: var(--font-kodchasan);
+    display: inline-block;
+  }
+  .invitation {
+    top: 41px;
+    left: 66px;
+    width: 284px;
+    height: 65px;
+  }
+  .click-here-to,
+  .x {
+    cursor: pointer;
+  }
+  .click-here-to {
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 767px;
+    left: 599px;
+    color: var(--color-white);
+    text-align: left;
+    width: 672px;
+    height: 69px;
+  }
+
+  .click-here-to:focus{
+    outline: none;
+  }
+
+  .x {
+    top: 41px;
+    left: 1457px;
+    font-weight: 200;
+    width: 62px;
+    height: 65px;
+  }
+  .moh,
+  .on-friday-25th,
+  .sin,
+  .weds,
+  .you-have-been {
+    font-style: italic;
+    position: absolute;
+    font-family: var(--font-kapakana);
+    display: inline;
+  }
+  .you-have-been {
+   border-style: none;
+    top: 133px;
+    position: relative;
+    left: 551px;
+    font-size: 55px;
+    width: 514px;
+    height: 49px;
+  }
+.weds{
+    left: 659px;
+}
+  .moh,
+  .sin,
+  .weds {
+    top: 265px;
+    left: 709px;
+    font-size: var(--font-size-3xl);
+    width: 159px;
+    height: 57px;
+  }
+  .on-friday-25th,
+  .sin,
+  .weds {
+    top: 348px;
+    left: 734px;
+    font-size: var(--font-size-2xl);
+    width: 97px;
+    height: 37px;
+  }
+  .on-friday-25th,
+  .sin {
+    top: 412px;
+    left: 722px;
+    font-size: var(--font-size-3xl);
+    width: 123px;
+    height: 67px;
+  }
+  .on-friday-25th {
+    top: 547px;
+    left: 530px;
+    font-size: var(--font-size-2xl);
+    width: 619px;
+    height: 185px;
+  }
+  .frame-inner {
+    position: absolute;
+    top: 215.39px;
+    left: 199px;
+    width: 1173.09px;
+    height: 523.61px;
+  }
+  .rectangle-parent {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1227px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-julius-sans-one);
+  }
+  

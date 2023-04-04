@@ -1,0 +1,216 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .frame-child {
+    position: absolute;
+    top: 6px;
+    left: 0;
+    background-color: #6c2f5e;
+    width: 1566px;
+    height: 964px;
+  }
+ 
+  .venue {
+    position: absolute;
+    top: 45px;
+    left: 73px;
+    font-size: 30px;
+    display: inline-block;
+    color: var(--color-white);
+    width: 204px;
+    height: 65px;
+  }
+  .royal-palace-ground,
+  .thank-you {
+    position: absolute;
+    font-size: 35px;
+    display: inline;
+    color: var(--color-white);
+    top: 110px;
+    left: 629px;
+    font-family: var(--font-kapakana);
+    width: 309px;
+    height: 83px;
+  }
+  .thank-you {
+    top: 880px;
+    left: 667px;
+    font-size: var(--font-size-2xl);
+    width: 233px;
+    height: 32px;
+  }
+  .frame-item {
+    position: absolute;
+    top: 202.94px;
+    left: 207.12px;
+    width: 1056.97px;
+    height: 185.03px;
+  }
+  .icon,
+  .icon1,
+  .icon2,
+  .icon3 {
+    position: absolute;
+    top: 378px;
+    left: 82px;
+    border-radius: var(--br-md);
+    width: 308px;
+    height: 224px;
+    object-fit: cover;
+  }
+  .icon1,
+  .icon2,
+  .icon3 {
+    left: 443px;
+  }
+  .icon2,
+  .icon3 {
+    left: 804px;
+  }
+  .icon3 {
+    left: 1150px;
+  }
+  .confirm-your-presence,
+  .x {
+    position: absolute;
+    font-weight: 200;
+    color: var(--color-white);
+    display: inline-block;
+  }
+  .x {
+    top: 45px;
+    left: 1425px;
+    font-size: var(--font-size-2xl);
+    width: 62px;
+    height: 65px;
+    cursor: pointer;
+  }
+  .confirm-your-presence {
+    top: 750px;
+    left: 575px;
+    font-size: 35px;
+    width: 403px;
+    height: 38px;
+  }
+  .frame-inner,
+  .rectangle-div {
+    position: absolute;
+    top: 811px;
+    left: 568px;
+    background-color: var(--color-white);
+    width: 236px;
+    height: 41px;
+  }
+  .rectangle-div {
+    left: 834px;
+  }
+  .email,
+  .name {
+    position: absolute;
+    top: 816px;
+    left: 582px;
+    font-size: var(--font-size-sm);
+    font-weight: 200;
+    display: inline-block;
+    width: 75px;
+    height: 24px;
+  }
+  .email {
+    left: 848px;
+    width: 74px;
+    height: 28px;
+  }
+  .frame-child1 {
+    position: absolute;
+    top: 970px;
+    left: 0;
+    background-color: #ecd5e7;
+    width: 1566px;
+    height: 365px;
+  }
+  .address,
+  .contact {
+    position: absolute;
+    top: 1012px;
+    left: 80px;
+    font-family: var(--font-julius-sans-one);
+  }
+  .address {
+    top: 1165px;
+    left: 92px;
+  }
+  .ph-91-8989898989 {
+    margin: 0;
+  }
+  .ph-91-9898989898-container,
+  .washington-dc-usa-909909 {
+    position: absolute;
+    top: 1067px;
+    left: 73px;
+    font-family: var(--font-julius-sans-one);
+    display: inline-block;
+    width: 517px;
+    height: 98px;
+  }
+  .washington-dc-usa-909909 {
+    top: 1220px;
+    left: 89px;
+    height: 47px;
+  }
+  .connect-us-on {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .connect-us-on-container {
+    position: absolute;
+    top: 1012px;
+    left: 1087px;
+    font-family: var(--font-julius-sans-one);
+    display: inline-block;
+    width: 458px;
+    height: 65px;
+  }
+  .vector-icon,
+  .vector-icon1,
+  .vector-icon2 {
+    position: absolute;
+    height: 4.75%;
+    width: 3.83%;
+    top: 81.98%;
+    right: 25.16%;
+    bottom: 13.26%;
+    left: 71.01%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-icon1,
+  .vector-icon2 {
+    height: 4.77%;
+    width: 3.13%;
+    top: 81.95%;
+    right: 15.77%;
+    bottom: 13.29%;
+    left: 81.1%;
+  }
+  .vector-icon2 {
+    height: 4.52%;
+    width: 2.87%;
+    top: 82.22%;
+    right: 7.02%;
+    bottom: 13.26%;
+    left: 90.1%;
+  }
+  .rectangle-parent {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1335px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-kodchasan);
+  }
+  

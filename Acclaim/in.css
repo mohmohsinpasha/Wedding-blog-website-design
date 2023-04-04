@@ -1,0 +1,329 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1566px;
+  height: 867px;
+}
+.contact,
+.home,
+.invitation,
+.our-story,
+.portfolio {
+  text-decoration: none;
+  position: absolute;
+  top: 67px;
+  left: 1232px;
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  font-family: var(--font-kodchasan);
+  color: inherit;
+  cursor: pointer;
+}
+.contact,
+.home,
+.invitation,
+.portfolio {
+  left: 1129px;
+}
+.contact,
+.home,
+.portfolio {
+  left: 1031px;
+}
+.contact,
+.home {
+  left: 958px;
+}
+.contact {
+  left: 1342px;
+}
+.moh1 {
+  position: absolute;
+  top: 87px;
+  left: 78px;
+  border-radius: 55px;
+  width: 601px;
+  height: 750px;
+  object-fit: cover;
+}
+.moh-and-sin {
+  font-style: italic;
+  font-family: url(kapakana-regular.ttf);
+  position: absolute;
+  top: 0;
+  left: 0px;
+}
+.dear-family-and {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.we-wanted-to {
+  margin: 0;
+}
+.dear-family-and-container {
+  position: absolute;
+  top: 117px;
+  left: 0;
+  font-size: 17px;
+  font-family: var(--font-kodchasan);
+  display: inline-block;
+  width: 549px;
+}
+.link,
+.text {
+  position: absolute;
+}
+.text {
+  top: 282px;
+  left: 887px;
+  width: 549px;
+  height: 293px;
+  font-size: var(--font-size-xl);
+}
+.link {
+  cursor: pointer;
+  top: 696px;
+  left: 840px;
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  font-family: var(--font-kodchasan);
+}
+.frame-item {
+  position: absolute;
+  top: 867px;
+  left: 0;
+  background-color: #000;
+  width: 1566px;
+  height: 1226px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4,
+.our-story1 {
+  position: absolute;
+  top: 881px;
+  left: 84px;
+  font-style: italic;;
+  font-size:larger;
+  display: inline-block;
+  width: 314px;
+  height: 100px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4 {
+  top: 1213.95px;
+  left: 335px;
+  font-size: var(--font-size-lg);
+  width: 233px;
+  height: 68px;
+}
+.div1,
+.div2,
+.div3,
+.div4 {
+  top: 1075.95px;
+  left: 964px;
+  width: 113px;
+  height: 50px;
+}
+.div2,
+.div3,
+.div4 {
+  top: 1342px;
+  left: 670px;
+  width: 104px;
+  height: 47px;
+}
+.div3,
+.div4 {
+  top: 1550px;
+  left: 1063px;
+  width: 113px;
+  height: 40px;
+}
+.div4 {
+  top: 1752px;
+  left: 297px;
+  width: 124px;
+  height: 51px;
+}
+.engagement,
+.our-first-date,
+.our-first-meet,
+.she-said-yessss,
+.wedding {
+  position: absolute;
+  top: 1265px;
+  left: 106px;
+  font-family: var(--font-homemade-apple);
+  display: inline-block;
+  width: 278px;
+  height: 61px;
+}
+.engagement,
+.our-first-date,
+.she-said-yessss,
+.wedding {
+  top: 1123px;
+  left: 1021px;
+  width: 372px;
+  height: 39px;
+}
+.engagement,
+.she-said-yessss,
+.wedding {
+  top: 1389px;
+  left: 468px;
+  width: 367px;
+  height: 61px;
+}
+.engagement,
+.wedding {
+  top: 1590px;
+  left: 1171px;
+  width: 248px;
+}
+.wedding {
+  top: 1783px;
+  left: 398px;
+  width: 219px;
+}
+.ellipse-icon,
+.frame-inner {
+  border-radius: 125px;
+  position: absolute;
+  top: 1001px;
+  left: 113px;
+  width: 265px;
+  height: 244px;
+  object-fit: cover;
+}
+.ellipse-icon {
+  top: 1175px;
+  left: 990px;
+  width: 305px;
+  height: 267px;
+}
+.vector-icon {
+  position: absolute;
+  top: 1049.5px;
+  left: 433.07px;
+  width: 748.97px;
+  height: 766.77px;
+}
+.frame-child1,
+.frame-child2,
+.rectangle-icon {
+  position: absolute;
+  top: 1664px;
+  left: 1176px;
+  width: 331px;
+  height: 212px;
+  object-fit: cover;
+}
+.frame-child1,
+.frame-child2 {
+  top: 1450px;
+  left: 435px;
+  width: 339px;
+  height: 221px;
+}
+.frame-child2 {
+  top: 1855px;
+  left: 134px;
+  width: 451px;
+}
+.rectangle-footer {
+  position: absolute;
+  top: 2087px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1566px;
+  height: 365px;
+}
+.address,
+.contact1 {
+  position: absolute;
+  top: 2125px;
+  left: 68px;
+  font-family: var(--font-julius-sans-one);
+}
+.address {
+  top: 2278px;
+  left: 80px;
+}
+.connect-us-on-container,
+.ph-91-9898989898-container,
+.washington-dc-usa-909909 {
+  position: absolute;
+  top: 2180px;
+  left: 61px;
+  font-family: var(--font-julius-sans-one);
+  display: inline-block;
+  width: 517px;
+  height: 98px;
+}
+.connect-us-on-container,
+.washington-dc-usa-909909 {
+  top: 2333px;
+  left: 77px;
+  height: 47px;
+}
+.connect-us-on-container {
+  top: 2125px;
+  left: 1075px;
+  width: 458px;
+  height: 65px;
+}
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 2.32%;
+  width: 3.83%;
+  top: 88.99%;
+  right: 26.56%;
+  bottom: 8.69%;
+  left: 69.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2,
+.vector-icon3 {
+  height: 1.79%;
+  width: 3.13%;
+  top: 89.31%;
+  right: 16.73%;
+  bottom: 8.89%;
+  left: 80.14%;
+}
+.vector-icon3 {
+  height: 2.12%;
+  width: 2.87%;
+  top: 88.99%;
+  right: 8.11%;
+  left: 89.02%;
+}
+.rectangle-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2452px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-kapakana);
+}
